@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "ac82aaa4-4724-4357-9e2b-211adaa553b5"
+name: "company-okrs"
+display_name: "Company OKRs"
+description: "Reference template for company objectives and key results used to align product priorities"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-company-okrs"
+category: "shared"
+tags:
+  - "shared"
+  - "source"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 1
+  documents: 0
+  assets: 0
+  total: 1
