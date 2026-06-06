@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "ac82aaa4-4724-4357-9e2b-211adaa553b5"
+id: "af9ac7ac-7777-455d-a4c9-66a01ff4af23"
 name: "company-okrs"
 display_name: "Company OKRs"
 description: "Reference template for company objectives and key results used to align product priorities"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
